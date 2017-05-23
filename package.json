@@ -1,0 +1,24 @@
+{
+  "name": "js2hint",
+  "version": "1.0.0",
+  "description": "js hint excersise",
+  "main": "index.js",
+  "scripts": {
+    "test": "hint test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "js",
+    "hint"
+  ],
+  "author": "Mateusz Stepien",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
